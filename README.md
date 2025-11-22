@@ -6,6 +6,8 @@ Team Details : Mohammed Hussain Shaikh, Abhishek A Pillai, Prashant Mahadev Goun
 
 Reviewer Name : Aman Patel (ampa)
 
+Video Link: 
+
 
 
 # StockMaster – Inventory Management System
